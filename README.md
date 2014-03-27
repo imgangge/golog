@@ -1,0 +1,4 @@
+golog
+=====
+
+go log writer
